@@ -2,6 +2,11 @@
 curso GIT JPPretti
 oh shit here we go again
 
-## instalaçao
+## instalaÃ§ao
 
-## Execuçao
+## ExecuÃ§ao
+
+
+
+
+ALOOOOOW
